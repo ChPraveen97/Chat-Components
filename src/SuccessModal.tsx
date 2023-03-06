@@ -35,7 +35,7 @@ export default function SuccessModal() {
               color: "#4A8F18",
               // width:'70px',
               // height: '70px',
-              fontSize: '80px',
+              fontSize: "80px",
               mt: "14px",
               mb: "19px",
             }}
@@ -71,7 +71,7 @@ export default function SuccessModal() {
               color: "#262626",
               mt: "16px",
               mb: "17px",
-              px: '70px'
+              px: "70px",
             }}
           >
             You will be redirected to the project file.
