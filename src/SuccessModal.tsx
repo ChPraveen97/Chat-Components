@@ -76,7 +76,6 @@ export default function SuccessModal() {
           >
             You will be redirected to the project file.
           </Typography>
-
           <LightModeOutlinedIcon sx={{ mt: "16px", color: "#3360DB" }} />
         </Box>
       </Modal>
